@@ -1,6 +1,8 @@
 #
 
-Small web application in java
+Small web application in java based on
+
+	https://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/
 
 # Maven
 
