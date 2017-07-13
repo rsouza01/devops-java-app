@@ -64,7 +64,7 @@
   </dependencies>
   <build>
     <finalName>DevopsJavaApp</finalName>
-    <directory>/artifacts</directory>
+    <!-- directory>/artifacts</directory -->
 
 	<plugins>
 		    <!-- Eclipse project -->
@@ -109,7 +109,7 @@
 			<version>2.0</version>
 			<configuration>
 				<warName>DevopsJavaApp</warName>
-				<outputDirectory>/artifacts</outputDirectory>
+				<outputDirectory>/target</outputDirectory>
 			</configuration>
 		  </plugin>
 
